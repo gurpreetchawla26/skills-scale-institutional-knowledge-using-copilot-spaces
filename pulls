@@ -1,0 +1,16 @@
+Title:
+[Process Doc Update]: README for OctoAcme Project Management Docs — README, project management processes summary, and links
+
+Body:
+This PR adds docs/README.md: a single-page index and concise summary of OctoAcme's project management process documents. The README provides a short overview of the process, key workflows, personas and communication cadence, QA and release guidance, and an index of the detailed docs in docs/.
+
+Closes #2
+
+Files changed:
+- docs/README.md (new)
+
+Notes for reviewers:
+- Verify the README accurately represents the existing docs and links to each file in docs/.
+- If anything needs to be reworded or additional links added, propose changes in a PR review comment.
+
+Reviewer requested: @gurpreetchawla26
